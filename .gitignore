@@ -1,6 +1,9 @@
+venv/
+dist/
+__pycache__/
+.DS_Store
 *.egg-info
 __pycache__
-dist/
 *.pyc
 .venv/
 .coverage
