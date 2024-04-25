@@ -4,3 +4,6 @@
 
 #### Comparison of flat files (JSON)
 [![asciicast](https://asciinema.org/a/HTnGrk5ADcyrFJSZ4NZICgwzc.svg)](https://asciinema.org/a/HTnGrk5ADcyrFJSZ4NZICgwzc)
+
+#### Comparison of flat files (YAML)
+[![asciicast](https://asciinema.org/a/UVBiqYlMfkYoJqdSDnENBmUEQ.svg)](https://asciinema.org/a/UVBiqYlMfkYoJqdSDnENBmUEQ)
